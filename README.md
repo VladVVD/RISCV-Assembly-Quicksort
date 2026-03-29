@@ -1,4 +1,4 @@
-# ⚙️RISC-V Assembly & Control Flow Analysis (Quicksort)
+# RISC-V Assembly & Control Flow Analysis (Quicksort)
 
 ![C](https://img.shields.io/badge/Language-C-blue.svg)
 ![Assembly](https://img.shields.io/badge/Language-RISC--V_Assembly-orange.svg)
